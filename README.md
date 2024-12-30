@@ -7,7 +7,7 @@
 ![temp conversion](https://github.com/user-attachments/assets/91a91798-c676-41e0-8c7e-b0aae371618b)
 
 
-- [Demo Project]() ✅
+- [Demo Project](https://mhdigholami.github.io/BMI-Calculator/) ✅
 
 - Developed by Mahdi Gholami
 
